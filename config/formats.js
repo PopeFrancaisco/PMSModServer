@@ -168,7 +168,8 @@ exports.Formats = [
 		// no restrictions, for serious (other than team preview)
 		ruleset: ['Team Preview', 'Cancel Mod'],
 	},
-			name: "CAP Tier Shift",
+	{	
+		name: "CAP Tier Shift",
 		desc: [
 			"&bullet; <a href=\"https://www.smogon.com/forums/threads/3537407/\">CAP Metagame Discussion</a>",
 			"&bullet; <a href=\"https://www.smogon.com/dex/xy/formats/cap/\">CAP Banlist</a>",
@@ -180,7 +181,6 @@ exports.Formats = [
 		ruleset: ['OU'],
 		banlist: ['Allow CAP'],
 	},
-	{
 
 	// XY Doubles
 	///////////////////////////////////////////////////////////////////
